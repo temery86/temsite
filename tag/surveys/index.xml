@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Surveys | Academic</title>
-    <link>/tag/surveys/</link>
-      <atom:link href="/tag/surveys/index.xml" rel="self" type="application/rss+xml" />
+    <title>Surveys | Tom Emery</title>
+    <link>https://tomemery.eu/tag/surveys/</link>
+      <atom:link href="https://tomemery.eu/tag/surveys/index.xml" rel="self" type="application/rss+xml" />
     <description>Surveys</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tomemery.eu/images/icon_hu5c9f0bff0940d13aee7bb2e44ab2a52d_22026_512x512_fill_lanczos_center_2.png</url>
       <title>Surveys</title>
-      <link>/tag/surveys/</link>
+      <link>https://tomemery.eu/tag/surveys/</link>
     </image>
     
     <item>
       <title>SSHOC</title>
-      <link>/project/sshoc/</link>
+      <link>https://tomemery.eu/project/sshoc/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/sshoc/</guid>
+      <guid>https://tomemery.eu/project/sshoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SERISS</title>
-      <link>/project/seriss/</link>
+      <link>https://tomemery.eu/project/seriss/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/project/seriss/</guid>
+      <guid>https://tomemery.eu/project/seriss/</guid>
       <description></description>
     </item>
     

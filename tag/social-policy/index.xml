@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Policy | Academic</title>
-    <link>/tag/social-policy/</link>
-      <atom:link href="/tag/social-policy/index.xml" rel="self" type="application/rss+xml" />
+    <title>Social Policy | Tom Emery</title>
+    <link>https://tomemery.eu/tag/social-policy/</link>
+      <atom:link href="https://tomemery.eu/tag/social-policy/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Policy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tomemery.eu/images/icon_hu5c9f0bff0940d13aee7bb2e44ab2a52d_22026_512x512_fill_lanczos_center_2.png</url>
       <title>Social Policy</title>
-      <link>/tag/social-policy/</link>
+      <link>https://tomemery.eu/tag/social-policy/</link>
     </image>
     
     <item>
       <title>Application Programming Interfaces for Social Policy Analysis</title>
-      <link>/project/spapi/</link>
+      <link>https://tomemery.eu/project/spapi/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/project/spapi/</guid>
+      <guid>https://tomemery.eu/project/spapi/</guid>
       <description>&lt;p&gt;Social Policies are inherently algorithms which take inputs regarding an invididual or households circumstances and uses it to derive outputs in the form of policy provisions. Historically, quantitative measurement of the social policy process has been captured scientifically by monitoring of the outputs. This has been seen in a large number of comparative social policy databases that try to capture the replacement rates and implications of social policies for standardized individuals or model households.&lt;/p&gt;
 &lt;p&gt;In collaboration with Alzbeta Bartova at KU Leuven, we have been examining ways in which to improve the measurement of social policies such that their impact on atypical and non-standard households can be seen. To do this we, code policy documentation such that the policy is machine readable and queries be answered by a social policy API. For example, if you want to know what the policy outcome is for a specific individual is then you can simply send the individuals characteristics to the API and it will return their estimated policy outcomes.&lt;/p&gt;
 </description>
