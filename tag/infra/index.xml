@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infra | Academic</title>
+    <link>/tag/infra/</link>
+      <atom:link href="/tag/infra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Infra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Infra</title>
+      <link>/tag/infra/</link>
+    </image>
+    
+    <item>
+      <title>Administrative Data Infrastructures in Europe</title>
+      <link>/post/admin_infra/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/post/admin_infra/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;We have been busy developing the Dutch national infrastructure for social science and a large part of that infrastructure centers around access to administrative data. We have world class partners in CBS (Statistics Netherlands) who have continued to improve access to administrative data over the last 15 years such that researchers in the Netherlands can now access hundreds of datasets through a secure remote access environment and this has already led to publications in leading social science journals and closer collaborations between government and the research community.&lt;/p&gt;
+&lt;p&gt;ODISSEI has an auxillary role in this. ODISSEI does not hold any data or provide access. What ODISSEI does do is to try and further enhance the researchers experience in using administrative data. We have increase the computational power that is available to researchers, we are improving the findability of data within CBS through an ODISSEI portal, and we are ensuring that a wider range of external data can be linked to the catalogue of data that CBS holds. These are tasks that CBS not only does not have the budget to do, but also does not have the mandate to do. In that sense, ODISSEI is the interface between administrative data of government and the research community themselves.&lt;/p&gt;
+&lt;p&gt;A lot of countries have identified the same problem and come to different solutions about how to improve researchers access to administrative data. In this post I am going to give a run down of the initiatives that I am aware of and my understanding of how and why they differ from the work that we do. I finish up at the end by laying out how these initiatives can be brought together and the added benefits of doing so.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application Programming Interfaces for Social Policy Analysis</title>
+      <link>/project/spapi/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/spapi/</guid>
+      <description>&lt;p&gt;Social Policies are inherently algorithms which take inputs regarding an invididual or households circumstances and uses it to derive outputs in the form of policy provisions. Historically, quantitative measurement of the social policy process has been captured scientifically by monitoring of the outputs. This has been seen in a large number of comparative social policy databases that try to capture the replacement rates and implications of social policies for standardized individuals or model households.&lt;/p&gt;
+&lt;p&gt;In collaboration with Alzbeta Bartova at KU Leuven, we have been examining ways in which to improve the measurement of social policies such that their impact on atypical and non-standard households can be seen. To do this we, code policy documentation such that the policy is machine readable and queries be answered by a social policy API. For example, if you want to know what the policy outcome is for a specific individual is then you can simply send the individuals characteristics to the API and it will return their estimated policy outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SSHOC</title>
+      <link>/project/sshoc/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/sshoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SERISS</title>
+      <link>/project/seriss/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/project/seriss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
