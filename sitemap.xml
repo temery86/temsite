@@ -33,43 +33,8 @@
   </url>
   
   <url>
-    <loc>https://tomemery.eu/post/admin_infra/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tomemery.eu/authors/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/categories/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/tag/infra/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/category/infra/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/post/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/tags/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/author/tom-emery/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,12 +58,27 @@
   </url>
   
   <url>
+    <loc>https://tomemery.eu/tags/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/tom-emery/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tomemery.eu/project/spapi/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tomemery.eu/tag/families/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/tag/infra/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -205,6 +185,14 @@
   <url>
     <loc>https://tomemery.eu/project/seriss/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/post/</loc>
   </url>
   
   <url>
