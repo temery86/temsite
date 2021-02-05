@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ageing | Tom Emery</title>
-    <link>https://tomemery.eu/tag/ageing/</link>
-      <atom:link href="https://tomemery.eu/tag/ageing/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/ageing/</link>
+      <atom:link href="/tag/ageing/index.xml" rel="self" type="application/rss+xml" />
     <description>Ageing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tomemery.eu/images/icon_hu5c9f0bff0940d13aee7bb2e44ab2a52d_22026_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Ageing</title>
-      <link>https://tomemery.eu/tag/ageing/</link>
+      <link>/tag/ageing/</link>
     </image>
     
     <item>
       <title>Care, Retirement and Well-Being</title>
-      <link>https://tomemery.eu/project/crew/</link>
+      <link>/project/crew/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://tomemery.eu/project/crew/</guid>
+      <guid>/project/crew/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparative Study of Family Dynamics</title>
-      <link>https://tomemery.eu/project/china/</link>
+      <link>/project/china/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://tomemery.eu/project/china/</guid>
+      <guid>/project/china/</guid>
       <description></description>
     </item>
     

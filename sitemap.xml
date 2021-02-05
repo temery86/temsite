@@ -3,200 +3,212 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tomemery.eu/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/talk/example-talk/</loc>
+    <loc>/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/event/</loc>
+    <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/authors/</loc>
+    <loc>/post/admin_infra/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/infra/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/infra/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tom-emery/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/moldova/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/publication/moldova/</loc>
+    <loc>/author/judith-koops/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/author/judith-koops/</loc>
+    <loc>/publication/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/publication/</loc>
+    <loc>/tag/source-themes/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/tag/source-themes/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/tags/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/author/tom-emery/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/project/spapi/</loc>
+    <loc>/project/spapi/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/tag/families/</loc>
+    <loc>/tag/families/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/tag/infra/</loc>
+    <loc>/project/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/project/</loc>
+    <loc>/tag/social-policy/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/tag/social-policy/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/publication-type/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/publication/nkpschildcare/</loc>
+    <loc>/publication/nkpschildcare/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/author/eugenio-paglino/</loc>
+    <loc>/author/eugenio-paglino/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/publication/belarus/</loc>
+    <loc>/publication/belarus/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/author/anne-gauthier/</loc>
+    <loc>/author/anne-gauthier/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/author/damiano-ucheddu/</loc>
+    <loc>/author/damiano-ucheddu/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/author/nardi-steverink/</loc>
+    <loc>/author/nardi-steverink/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/publication/pains/</loc>
+    <loc>/publication/pains/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/courses/</loc>
+    <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/project/sshoc/</loc>
+    <loc>/project/sshoc/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/tag/surveys/</loc>
+    <loc>/tag/surveys/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/tag/ageing/</loc>
+    <loc>/tag/ageing/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/tag/care/</loc>
+    <loc>/tag/care/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/project/crew/</loc>
+    <loc>/project/crew/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/project/china/</loc>
+    <loc>/project/china/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/project/seriss/</loc>
+    <loc>/project/seriss/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tomemery.eu/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>
