@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Tom Emery</title>
-    <link>/publication-type/2/</link>
-      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tomemery.eu/publication-type/2/</link>
+      <atom:link href="https://tomemery.eu/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tomemery.eu/images/icon_hu5c9f0bff0940d13aee7bb2e44ab2a52d_22026_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>/publication-type/2/</link>
+      <link>https://tomemery.eu/publication-type/2/</link>
     </image>
     
     <item>
       <title>Private Childcare and Employment Options</title>
-      <link>/publication/nkpschildcare/</link>
+      <link>https://tomemery.eu/publication/nkpschildcare/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/nkpschildcare/</guid>
+      <guid>https://tomemery.eu/publication/nkpschildcare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating interviewer manipulation in the new round of the Generations and Gender Survey</title>
-      <link>/publication/belarus/</link>
+      <link>https://tomemery.eu/publication/belarus/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/belarus/</guid>
+      <guid>https://tomemery.eu/publication/belarus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The pains and reliefs of the transitions into and out of spousal caregiving</title>
-      <link>/publication/pains/</link>
+      <link>https://tomemery.eu/publication/pains/</link>
       <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/pains/</guid>
+      <guid>https://tomemery.eu/publication/pains/</guid>
       <description></description>
     </item>
     

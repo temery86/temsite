@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eugenio Paglino | Tom Emery</title>
-    <link>/author/eugenio-paglino/</link>
-      <atom:link href="/author/eugenio-paglino/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tomemery.eu/author/eugenio-paglino/</link>
+      <atom:link href="https://tomemery.eu/author/eugenio-paglino/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugenio Paglino</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tomemery.eu/images/icon_hu5c9f0bff0940d13aee7bb2e44ab2a52d_22026_512x512_fill_lanczos_center_2.png</url>
       <title>Eugenio Paglino</title>
-      <link>/author/eugenio-paglino/</link>
+      <link>https://tomemery.eu/author/eugenio-paglino/</link>
     </image>
     
     <item>
       <title>Evaluating interviewer manipulation in the new round of the Generations and Gender Survey</title>
-      <link>/publication/belarus/</link>
+      <link>https://tomemery.eu/publication/belarus/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/belarus/</guid>
+      <guid>https://tomemery.eu/publication/belarus/</guid>
       <description></description>
     </item>
     

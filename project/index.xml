@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Tom Emery</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tomemery.eu/project/</link>
+      <atom:link href="https://tomemery.eu/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tomemery.eu/images/icon_hu5c9f0bff0940d13aee7bb2e44ab2a52d_22026_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://tomemery.eu/project/</link>
     </image>
     
     <item>
       <title>Application Programming Interfaces for Social Policy Analysis</title>
-      <link>/project/spapi/</link>
+      <link>https://tomemery.eu/project/spapi/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/project/spapi/</guid>
+      <guid>https://tomemery.eu/project/spapi/</guid>
       <description>&lt;p&gt;Social Policies are inherently algorithms which take inputs regarding an invididual or households circumstances and uses it to derive outputs in the form of policy provisions. Historically, quantitative measurement of the social policy process has been captured scientifically by monitoring of the outputs. This has been seen in a large number of comparative social policy databases that try to capture the replacement rates and implications of social policies for standardized individuals or model households.&lt;/p&gt;
 &lt;p&gt;In collaboration with Alzbeta Bartova at KU Leuven, we have been examining ways in which to improve the measurement of social policies such that their impact on atypical and non-standard households can be seen. To do this we, code policy documentation such that the policy is machine readable and queries be answered by a social policy API. For example, if you want to know what the policy outcome is for a specific individual is then you can simply send the individuals characteristics to the API and it will return their estimated policy outcomes.&lt;/p&gt;
 </description>
@@ -24,33 +24,33 @@
     
     <item>
       <title>SSHOC</title>
-      <link>/project/sshoc/</link>
+      <link>https://tomemery.eu/project/sshoc/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/project/sshoc/</guid>
+      <guid>https://tomemery.eu/project/sshoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Care, Retirement and Well-Being</title>
-      <link>/project/crew/</link>
+      <link>https://tomemery.eu/project/crew/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/crew/</guid>
+      <guid>https://tomemery.eu/project/crew/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparative Study of Family Dynamics</title>
-      <link>/project/china/</link>
+      <link>https://tomemery.eu/project/china/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/china/</guid>
+      <guid>https://tomemery.eu/project/china/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SERISS</title>
-      <link>/project/seriss/</link>
+      <link>https://tomemery.eu/project/seriss/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/project/seriss/</guid>
+      <guid>https://tomemery.eu/project/seriss/</guid>
       <description></description>
     </item>
     
