@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alzbeta Bartova | Tom Emery</title>
+    <link>https://tomemery.eu/author/alzbeta-bartova/</link>
+      <atom:link href="https://tomemery.eu/author/alzbeta-bartova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alzbeta Bartova</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomemery.eu/images/icon_hu2d3375faa29dee1f6594d59ffbc2e091_97843_512x512_fill_lanczos_center_2.png</url>
+      <title>Alzbeta Bartova</title>
+      <link>https://tomemery.eu/author/alzbeta-bartova/</link>
+    </image>
+    
+    <item>
+      <title>Measuring policy entitlements at the micro-level. Maternity and parental leave in Europe</title>
+      <link>https://tomemery.eu/publication/policymeasure/</link>
+      <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://tomemery.eu/publication/policymeasure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -33,8 +33,63 @@
   </url>
   
   <url>
+    <loc>https://tomemery.eu/publication-type/2/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tomemery.eu/authors/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/edwin-de-jonge/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/jan-van-der-laan/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/marjolijn-das/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/publication_types/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/publication/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/saskia-te-riel/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/tag/source-themes/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/tags/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/tom-emery/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/publication/networkseg/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -44,26 +99,6 @@
   
   <url>
     <loc>https://tomemery.eu/author/judith-koops/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/publication/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/tag/source-themes/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/tags/</loc>
-    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/author/tom-emery/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,17 +128,7 @@
   </url>
   
   <url>
-    <loc>https://tomemery.eu/publication-type/2/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tomemery.eu/publication/nkpschildcare/</loc>
-    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/publication_types/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -114,6 +139,21 @@
   
   <url>
     <loc>https://tomemery.eu/publication/belarus/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/publication/grandkidschina/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/jing-zhang/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/pearl-dykstra/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,6 +203,26 @@
   </url>
   
   <url>
+    <loc>https://tomemery.eu/publication/chineseparents/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/maja-djundeva/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/alzbeta-bartova/</loc>
+    <lastmod>2016-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/publication/policymeasure/</loc>
+    <lastmod>2016-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tomemery.eu/tag/ageing/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -185,6 +245,11 @@
   <url>
     <loc>https://tomemery.eu/project/seriss/</loc>
     <lastmod>2015-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/publication/intergenconflict/</loc>
+    <lastmod>2011-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
