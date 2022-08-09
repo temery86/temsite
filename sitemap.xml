@@ -33,7 +33,42 @@
   </url>
   
   <url>
+    <loc>https://tomemery.eu/project/ercstg/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/tag/infra/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/project/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/tag/surveys/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/tags/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/project/sane/</loc>
+    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tomemery.eu/publication-type/2/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/aat-liefbroer/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +78,17 @@
   </url>
   
   <url>
+    <loc>https://tomemery.eu/publication/modeeffects/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tomemery.eu/author/edwin-de-jonge/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/author/giorgio-piccitto/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,11 +123,6 @@
   </url>
   
   <url>
-    <loc>https://tomemery.eu/tags/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tomemery.eu/author/tom-emery/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url>
@@ -113,16 +153,6 @@
   </url>
   
   <url>
-    <loc>https://tomemery.eu/tag/infra/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/project/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tomemery.eu/tag/social-policy/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url>
@@ -130,6 +160,11 @@
   <url>
     <loc>https://tomemery.eu/publication/nkpschildcare/</loc>
     <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tomemery.eu/publication-type/6/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -184,11 +219,6 @@
   
   <url>
     <loc>https://tomemery.eu/project/sshoc/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tomemery.eu/tag/surveys/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   

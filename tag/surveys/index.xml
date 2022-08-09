@@ -5,12 +5,20 @@
     <link>https://tomemery.eu/tag/surveys/</link>
       <atom:link href="https://tomemery.eu/tag/surveys/index.xml" rel="self" type="application/rss+xml" />
     <description>Surveys</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomemery.eu/images/icon_hu2d3375faa29dee1f6594d59ffbc2e091_97843_512x512_fill_lanczos_center_2.png</url>
       <title>Surveys</title>
       <link>https://tomemery.eu/tag/surveys/</link>
     </image>
+    
+    <item>
+      <title>Childcare Strategies</title>
+      <link>https://tomemery.eu/project/ercstg/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://tomemery.eu/project/ercstg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SSHOC</title>
