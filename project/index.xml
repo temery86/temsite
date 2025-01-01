@@ -5,12 +5,20 @@
     <link>https://tomemery.eu/project/</link>
       <atom:link href="https://tomemery.eu/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomemery.eu/images/icon_hu2d3375faa29dee1f6594d59ffbc2e091_97843_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://tomemery.eu/project/</link>
     </image>
+    
+    <item>
+      <title>European White Paper</title>
+      <link>https://tomemery.eu/project/whitepaper/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomemery.eu/project/whitepaper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pandemic and Disaster Prepardeness Center</title>
