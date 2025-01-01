@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susana Cabaco | Tom Emery</title>
+    <link>https://tomemery.eu/author/susana-cabaco/</link>
+      <atom:link href="https://tomemery.eu/author/susana-cabaco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Susana Cabaco</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomemery.eu/images/icon_hu2d3375faa29dee1f6594d59ffbc2e091_97843_512x512_fill_lanczos_center_2.png</url>
+      <title>Susana Cabaco</title>
+      <link>https://tomemery.eu/author/susana-cabaco/</link>
+    </image>
+    
+    <item>
+      <title>Breakoffs in an hour-long, online survey</title>
+      <link>https://tomemery.eu/publication/breakoffs/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://tomemery.eu/publication/breakoffs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adrienne Mendrik | Tom Emery</title>
+    <link>https://tomemery.eu/author/adrienne-mendrik/</link>
+      <atom:link href="https://tomemery.eu/author/adrienne-mendrik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adrienne Mendrik</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomemery.eu/images/icon_hu2d3375faa29dee1f6594d59ffbc2e091_97843_512x512_fill_lanczos_center_2.png</url>
+      <title>Adrienne Mendrik</title>
+      <link>https://tomemery.eu/author/adrienne-mendrik/</link>
+    </image>
+    
+    <item>
+      <title>The potential of benchmark challenges in the social sciences</title>
+      <link>https://tomemery.eu/publication/benchmarks/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomemery.eu/publication/benchmarks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

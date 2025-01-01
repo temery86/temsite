@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javier Garcia Bernardo | Tom Emery</title>
+    <link>https://tomemery.eu/author/javier-garcia-bernardo/</link>
+      <atom:link href="https://tomemery.eu/author/javier-garcia-bernardo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Javier Garcia Bernardo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tomemery.eu/images/icon_hu2d3375faa29dee1f6594d59ffbc2e091_97843_512x512_fill_lanczos_center_2.png</url>
+      <title>Javier Garcia Bernardo</title>
+      <link>https://tomemery.eu/author/javier-garcia-bernardo/</link>
+    </image>
+    
+    <item>
+      <title>Assessing COVID-19 transmission through school and family networks using population-level registry data from the Netherlands</title>
+      <link>https://tomemery.eu/publication/covidspread/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomemery.eu/publication/covidspread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The potential of benchmark challenges in the social sciences</title>
+      <link>https://tomemery.eu/publication/benchmarks/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomemery.eu/publication/benchmarks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
