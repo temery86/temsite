@@ -5,12 +5,36 @@
     <link>https://tomemery.eu/project/</link>
       <atom:link href="https://tomemery.eu/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tomemery.eu/images/icon_hu2d3375faa29dee1f6594d59ffbc2e091_97843_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://tomemery.eu/project/</link>
     </image>
+    
+    <item>
+      <title>The International Population Data Linkage Network</title>
+      <link>https://tomemery.eu/project/ipdln/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomemery.eu/project/ipdln/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRESENT - Midterm effects of School Closures</title>
+      <link>https://tomemery.eu/project/present/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomemery.eu/project/present/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSHOC-NL</title>
+      <link>https://tomemery.eu/project/sshocnl/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://tomemery.eu/project/sshocnl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Childcare Strategies</title>
